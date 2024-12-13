@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lib")(type "KiCad")(uri "C:/Users/Quentin/OneDrive/personal/Projects/ch552g/demo_board/lib.kicad_sym")(options "")(descr ""))
+)
